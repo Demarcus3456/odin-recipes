@@ -1,0 +1,1 @@
+This will be my first website i will be building for the odin project. On the website i will be putting what I learned. I will be including links, imagaes, and lists. By the end of the project i will have a recipe website up in running.
