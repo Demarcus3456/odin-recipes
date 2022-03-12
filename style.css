@@ -1,0 +1,22 @@
+.head {
+    background-color: aquamarine;
+    color: red;
+    margin: weight 30px;
+    border: 20px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+body {
+    background-color: rosybrown;
+    text-align: center;
+}
+
+button {
+    background-color: orange;
+}
+
+.thanks {
+    border-radius: 50%;
+}
